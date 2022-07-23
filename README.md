@@ -7,6 +7,8 @@
 This is my project clone from Dello, planing and manager tasks app. In this app, you can mangager you task, planing you project, share with friend and work together.
 Hope you enjoy this <3
 
+## Live Demo: https://dello-nguyenvanman.netlify.app
+
 <h2>How to use:</h2>  </br>
 <ul>
 <li>Step 1: Clone it to your computer </li>
